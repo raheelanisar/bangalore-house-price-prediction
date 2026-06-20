@@ -1,5 +1,5 @@
-# 🏠 Bangalore House Price Prediction
-
+# 🏠  House Price Prediction
+# Task 6
 ## Objective
 Predict house prices in Bangalore based on features like location, 
 square footage, BHK, and bathrooms.

@@ -24,3 +24,14 @@ Bangalore House Price Dataset (Kaggle)
 1. Clone the repo
 2. Install requirements: `pip install -r requirements.txt`
 3. Run: `python app.py`
+
+   ## 📷 Project Demo
+
+file:///C:/Windows/Code/BHP/client/app.html
+
+
+---
+
+## 🔗 Live Demo (Optional)
+If deployed on Streamlit Cloud:
+file:///C:/Windows/Code/BHP/client/app.html

@@ -27,11 +27,11 @@ Bangalore House Price Dataset (Kaggle)
 
    ## 📷 Project Demo
 
-file:///C:/Windows/Code/BHP/client/app.html
+C:/Windows/Code/BHP/client/app.html
 
 
 ---
 
 ## 🔗 Live Demo (Optional)
 If deployed on Streamlit Cloud:
-file:///C:/Windows/Code/BHP/client/app.html
+C:/Windows/Code/BHP/client/app.html
